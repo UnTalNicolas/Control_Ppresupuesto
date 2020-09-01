@@ -64,4 +64,5 @@ Pregunta.propTypes = {
     actualizarPregunta: PropTypes.func.isRequired
 }
 
+
 export default Pregunta;
